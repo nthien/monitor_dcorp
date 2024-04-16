@@ -4,18 +4,20 @@
     "url": "https://uat-id.dcorp.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/uat-id.dcorp.com.vn.ico",
     "slug": "uat-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1505,
-    "timeDay": 1505,
-    "timeWeek": 1505,
-    "timeMonth": 1505,
-    "timeYear": 1505,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1491,
+    "timeDay": 1491,
+    "timeWeek": 1491,
+    "timeMonth": 1491,
+    "timeYear": 1491,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "uat-skyinvoice",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1472,
-    "timeDay": 1472,
-    "timeWeek": 1472,
-    "timeMonth": 1472,
-    "timeYear": 1472,
+    "time": 1457,
+    "timeDay": 1457,
+    "timeWeek": 1457,
+    "timeMonth": 1457,
+    "timeYear": 1457,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 1810,
-    "timeWeek": 1810,
-    "timeMonth": 1810,
-    "timeYear": 1810,
+    "time": 1757,
+    "timeDay": 1757,
+    "timeWeek": 1757,
+    "timeMonth": 1757,
+    "timeYear": 1757,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2111,
-    "timeDay": 2111,
-    "timeWeek": 2111,
-    "timeMonth": 2111,
-    "timeYear": 2111,
+    "time": 2048,
+    "timeDay": 2048,
+    "timeWeek": 2048,
+    "timeMonth": 2048,
+    "timeYear": 2048,
     "dailyMinutesDown": {}
   }
 ]
