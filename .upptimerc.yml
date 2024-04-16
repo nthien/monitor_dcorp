@@ -9,9 +9,18 @@ sites:
   - name: uat-skyinvoice
     url: https://uat-skyinvoice.dcorp.com.vn
     method: GET
+  - name: uat-skyorder
+    url: https://uat-skyorder.dcorp.com.vn
+    method: GET
+  - name: uat-skyrequest
+    url: https://uat-skyrequest.dcorp.com.vn
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   name: Upptime
   baseUrl: /monitor_dcorp
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
