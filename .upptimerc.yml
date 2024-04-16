@@ -24,4 +24,4 @@ status-website:
   baseUrl: /monitor_dcorp
 
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: This page is maintaince by DCORP
