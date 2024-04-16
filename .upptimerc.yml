@@ -23,5 +23,14 @@ status-website:
   logoUrl: https://www.dcorp.com.vn/wp-content/uploads/elementor/thumbs/Dcorp-Logo-oow4ppznt9v1h4rmpn2fevw7c17nj5dugj38avta80.png
   baseUrl: /monitor_dcorp
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 i18n:
   footer: This page is maintaince by DCORP
