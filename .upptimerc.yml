@@ -19,7 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  name: Upptime
+  name: DCORP_STATUS
+  logoUrl:https://www.dcorp.com.vn/wp-content/uploads/elementor/thumbs/Dcorp-Logo-oow4ppznt9v1h4rmpn2fevw7c17nj5dugj38avta80.png
   baseUrl: /monitor_dcorp
 
 i18n:
