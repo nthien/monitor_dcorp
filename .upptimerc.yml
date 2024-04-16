@@ -2,6 +2,10 @@
 owner: nthien # Your GitHub organization or username, where this repository lives
 repo: monitor_dcorp # The name of this repository
 
+NOTIFICATION_SLACK: true
+NOTIFICATION_SLACK_WEBHOOK: true
+NOTIFICATION_SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+
 sites:
   - name: uat-id
     url: https://uat-id.dcorp.com.vn
