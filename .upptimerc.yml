@@ -4,7 +4,7 @@ repo: monitor_dcorp # The name of this repository
 
 NOTIFICATION_SLACK: true
 NOTIFICATION_SLACK_WEBHOOK: true
-NOTIFICATION_SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+NOTIFICATION_SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
 
 sites:
   - name: uat-id
