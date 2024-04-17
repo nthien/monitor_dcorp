@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1429,
-    "timeDay": 1429,
-    "timeWeek": 1429,
-    "timeMonth": 1429,
-    "timeYear": 1429,
+    "time": 1417,
+    "timeDay": 1417,
+    "timeWeek": 1417,
+    "timeMonth": 1417,
+    "timeYear": 1417,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat-skyinvoice.dcorp.com.vn.ico",
     "slug": "uat-skyinvoice",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 1462,
-    "timeDay": 1462,
-    "timeWeek": 1462,
-    "timeMonth": 1462,
-    "timeYear": 1462,
-    "dailyMinutesDown": {
-      "2024-04-16": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1438,
+    "timeDay": 1438,
+    "timeWeek": 1438,
+    "timeMonth": 1438,
+    "timeYear": 1438,
+    "dailyMinutesDown": {}
   },
   {
     "name": "uat-skyorder",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat-skyorder.dcorp.com.vn.ico",
     "slug": "uat-skyorder",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 1684,
-    "timeDay": 1684,
-    "timeWeek": 1684,
-    "timeMonth": 1684,
-    "timeYear": 1684,
-    "dailyMinutesDown": {
-      "2024-04-16": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1670,
+    "timeDay": 1670,
+    "timeWeek": 1670,
+    "timeMonth": 1670,
+    "timeYear": 1670,
+    "dailyMinutesDown": {}
   },
   {
     "name": "uat-skyrequest",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2065,
-    "timeDay": 2065,
-    "timeWeek": 2065,
-    "timeMonth": 2065,
-    "timeYear": 2065,
+    "time": 2027,
+    "timeDay": 2027,
+    "timeWeek": 2027,
+    "timeMonth": 2027,
+    "timeYear": 2027,
     "dailyMinutesDown": {}
   }
 ]
