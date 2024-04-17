@@ -1,7 +1,7 @@
 url: https://uat-skyinvoice.dcorp.com.vn
-status: down
-code: 502
-responseTime: 2830
-lastUpdated: 2024-04-17T14:27:25.012Z
+status: up
+code: 200
+responseTime: 1751
+lastUpdated: 2024-04-17T14:36:14.219Z
 startTime: 2024-04-16T01:48:15.763Z
 generator: Upptime <https://github.com/upptime/upptime>
