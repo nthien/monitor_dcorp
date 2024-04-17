@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat-id.dcorp.com.vn.ico",
     "slug": "uat-id",
     "status": "down",
-    "uptime": "92.61%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "92.61%",
-    "time": 1385,
-    "timeDay": 1325,
-    "timeWeek": 1385,
-    "timeMonth": 1385,
-    "timeYear": 1385,
+    "uptime": "92.19%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "92.19%",
+    "time": 1384,
+    "timeDay": 1330,
+    "timeWeek": 1384,
+    "timeMonth": 1384,
+    "timeYear": 1384,
     "dailyMinutesDown": {
-      "2024-04-17": 185
+      "2024-04-17": 197
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat-skyinvoice.dcorp.com.vn.ico",
     "slug": "uat-skyinvoice",
     "status": "down",
-    "uptime": "92.96%",
-    "uptimeDay": "87.77%",
-    "uptimeWeek": "92.96%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "92.96%",
-    "time": 1359,
-    "timeDay": 1257,
-    "timeWeek": 1359,
-    "timeMonth": 1359,
-    "timeYear": 1359,
+    "uptime": "92.54%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "92.54%",
+    "time": 1361,
+    "timeDay": 1260,
+    "timeWeek": 1361,
+    "timeMonth": 1361,
+    "timeYear": 1361,
     "dailyMinutesDown": {
-      "2024-04-17": 176
+      "2024-04-17": 188
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://uat-skyorder.dcorp.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/uat-skyorder.dcorp.com.vn.ico",
     "slug": "uat-skyorder",
-    "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "90.27%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "94.28%",
+    "status": "down",
+    "uptime": "94.24%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "94.24%",
     "time": 1943,
-    "timeDay": 2135,
+    "timeDay": 2151,
     "timeWeek": 1943,
     "timeMonth": 1943,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2024-04-17": 140
+      "2024-04-17": 142
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://uat-skyrequest.dcorp.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/uat-skyrequest.dcorp.com.vn.ico",
     "slug": "uat-skyrequest",
-    "status": "up",
-    "uptime": "93.98%",
-    "uptimeDay": "89.76%",
-    "uptimeWeek": "93.98%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "93.98%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "90.29%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.31%",
     "time": 2159,
-    "timeDay": 2223,
+    "timeDay": 2232,
     "timeWeek": 2159,
     "timeMonth": 2159,
     "timeYear": 2159,
     "dailyMinutesDown": {
-      "2024-04-17": 148
+      "2024-04-17": 140
     }
   }
 ]
