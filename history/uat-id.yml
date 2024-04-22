@@ -1,7 +1,7 @@
 url: https://uat-id.dcorp.com.vn
-status: down
-code: 502
-responseTime: 1544
-lastUpdated: 2024-04-22T19:54:44.415Z
+status: up
+code: 200
+responseTime: 2365
+lastUpdated: 2024-04-22T20:11:23.385Z
 startTime: 2024-04-16T01:48:13.121Z
 generator: Upptime <https://github.com/upptime/upptime>
