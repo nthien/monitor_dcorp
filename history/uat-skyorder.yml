@@ -1,7 +1,7 @@
 url: https://uat-skyorder.dcorp.com.vn
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-29T14:36:14.138Z
+status: up
+code: 200
+responseTime: 2286
+lastUpdated: 2024-05-29T14:39:27.261Z
 startTime: 2024-04-16T02:42:59.850Z
 generator: Upptime <https://github.com/upptime/upptime>
